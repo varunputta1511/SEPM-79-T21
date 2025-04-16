@@ -1,5 +1,5 @@
 # SEPM-79-T21
-##SEPM LAB
+## SEPM LAB
 
 <h2>Student Information</h2>
 <ul>
